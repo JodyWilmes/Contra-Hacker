@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5787b6f54dab7de4c96d2afa90f06d57, type: 3}
+  m_Name: TestMail1
+  m_EditorClassIdentifier: 
+  senders:
+  - James@google.com
+  - Prlywytzkofsky@gogol.ru
+  recipients:
+  - You
+  - You, Runther@google.com, Margaret@google.com, Malenia@google.com and 23 others
+  subjects:
+  - Hello!
+  - Your bank account will be deleted.
+  bodies:
+  - Hello! Could you click the link below? Thanks in advance!
+  - Watch out. Click below to undelete your bank account.
+  hyperlinks:
+  - Click here to say Hi!
+  - undeletbackaccount.ru
+  attachments:
+  - nice.txt
+  - nice.bat
+  logoes: []
+  phishChance: 0.5
+  difficulty: 1
+  isUrgent: 0
+  urgentMaxTime: 0
+  handleType: 2

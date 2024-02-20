@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5787b6f54dab7de4c96d2afa90f06d57, type: 3}
+  m_Name: TestMail2
+  m_EditorClassIdentifier: 
+  senders:
+  - Bas@google.com
+  - Homiliya@doresti.ru
+  recipients:
+  - U
+  - U, Bas@google.com, James@google.com, Frans@google.com, +351 anderen
+  subjects:
+  - Graag document uitprinten
+  - 'DRINGEND: Verzoek om document  afdruk'
+  bodies:
+  - Hallo Kees, zou je voor mij deze mail willen uitprinten? Het document is benodigd
+    voor de volgende vergadering. Groet, Bas, Directeur
+  - He, print nu dit document uit! Het is belangrijk! Als je het niet uitprint, ontsla
+    ik je! Je baas.
+  hyperlinks: []
+  attachments:
+  - document.txt
+  - document.exe
+  logoes: []
+  phishChance: 0.5
+  difficulty: 0
+  isUrgent: 0
+  urgentMaxTime: 0
+  handleType: 1

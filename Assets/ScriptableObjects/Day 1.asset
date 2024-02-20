@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a647a813a813748b11ae517c35e180, type: 3}
+  m_Name: Day 1
+  m_EditorClassIdentifier: 
+  currentDay: 0
+  time: 0
+  dayLength: 420
+  messageSpread: 
+  difficulty: 0
+  guaranteedMails:
+  - time: 1
+    guaranteedMail:
+      sender: Herman.mergelen@muisbakkers.nl
+      recipient: Jan@muisbakkers.nl (U)
+      subject: Succes!
+      body: Succes met je nieuwe baan, Jan! Deze dag gaat tot 16:00 door.
+      hyperlink: 
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 0
+  - time: 25
+    guaranteedMail:
+      sender: Neert (Neert.Janssen@gmail.com)
+      recipient: business@muisbakkers.nl
+      subject: Grote order aan taarten
+      body: Hallo Muisbakkers B.V., ik zou graag een order willen plaatsen. Voor
+        een bedrijfsfeest hebben wij een stuk of 20 taarten nodig. De details staan
+        in de bijgevoegde order. Kun je ervoor zorgen dat deze bij de juiste persoon
+        aankomt? Alvast bedankt, Neert.
+      hyperlink: 
+      attachment: order.pdf
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 04000000
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 3
+  - time: 50
+    guaranteedMail:
+      sender: ING (info@ing.nl)
+      recipient: Jan.de.groot@gmail.com (U)
+      subject: Blijf waakzaam!
+      body: Aan al onze gebruikers, wees waakzaam! Er is een nieuwe groep hackers
+        actief, die niets liever willen dan uw account te stelen! Wij zullen u nooit
+        dringend vragen om iets te doen of om uw wachtwoord in te voeren.
+      hyperlink: 
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 0
+  - time: 75
+    guaranteedMail:
+      sender: Maarten Hazenaar (m.hazenaar@yahoo.com)
+      recipient: business@muisbakkers.nl
+      subject: Slagroom soesjes
+      body: Hallo Muisbakkers, Ik weet dat dit een nogal ongebruikelijk verzoek is,
+        maar ik heb een gigantische lading aan soesjes nodig. Ik ben een organisator
+        voor het wereldkampioenschap soesjes eten. Kunt u mij alstublieft doorsturen
+        naar de juiste persoon?
+      hyperlink: 
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 3
+  - time: 100
+    guaranteedMail:
+      sender: ING (info@ing.nl)
+      recipient: Jan.de.groot@gmail.com (U)
+      subject: Er staat een bericht voor U klaar.
+      body: Beste Jan, er staat een bericht voor U klaar op de ING site. Volg de
+        onderstaande link om in te loggen en het bericht te bekijken.
+      hyperlink: www.ing.com/inloggen
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 2
+  - time: 130
+    guaranteedMail:
+      sender: ING (ign.nu)
+      recipient: business@muisbakkers.nl, +23 anderen
+      subject: 'BELANGRIJK: INGID aanpassen!!!!'
+      body: Beste klant, er is binnenkort een nieuwe manier om inte loggen met een
+        nieuw INGID. Deze moet u voor het eind van de maand hebben aangevraagd. Dus
+        vraagt u snel  een nieuwe INGID aan.
+      hyperlink: www.lng.nl/pasaan
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 1
+      redFlags: 0000000001000000020000000300000004000000
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 2
+  - time: 160
+    guaranteedMail:
+      sender: Maria (Maria.de.groot@gmail.com)
+      recipient: Jan.de.groot@gmail.com (U)
+      subject: Heb jij onze dochter gezien?
+      body: Zeg Jan, ik maak me erg veel zorgen om onze dochter. Ons klein meiske
+        is al dagen niet meer thuis nadat ze met die nieuwe vrienden aan het praten
+        was. Kun je haar signalement doorsturen naar de politie? Alvast bedankt schat.
+      hyperlink: 
+      attachment: penny.png
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 3
+  - time: 190
+    guaranteedMail:
+      sender: Gerda Frodings (g.frodings@gmail.com)
+      recipient: business@muisbakkers.nl
+      subject: Bij U werken
+      body: Hallo Muisbakkers B.V. Ik zou graag bij Uw bedrijf willen werken. Ik
+        ben een bakkeres met vele talenten en mijn taarten zijn subliem. Zorg er
+        a.u.b. voor dat de juiste persoon mijn mail leest. Bij voorbaat dank, Gerda.
+      hyperlink: 
+      attachment: cv.pdf
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 3
+  - time: 215
+    guaranteedMail:
+      sender: Gerardus Kraag (gerard.kraag@gmail.com)
+      recipient: business@muisbakkers.nl
+      subject: Een order voor uw bedrijf.
+      body: Hallo Muisbakkers B.V. Ik zou graag een grote hoeveelheid bakkersproducten
+        willen bestellen. Kunt u dit doorsturen naar de juiste persoon?
+      hyperlink: 
+      attachment: order.exe
+      logo: {fileID: 0}
+      isPhishing: 1
+      redFlags: 05000000
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 3
+  - time: 225
+    guaranteedMail:
+      sender: Bas.Janssen@muisbakkers.nl
+      recipient: Jan@muisbakkers.nl (U)
+      subject: Gek nieuw AI-programma!
+      body: He Jan, ik heb dit nieuwe AI-programma gevonden. Het kan zo mooi taarten
+        maken! Print deze maar uit, kun je hem in je bureau hangen!
+      hyperlink: 
+      attachment: ai-taart.png
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 1
+  - time: 240
+    guaranteedMail:
+      sender: ads@bluecool.nl
+      recipient: Jan.de.groot@gmail.com (U)
+      subject: Het nieuwste AZAZ-Koffiezetapparaat!
+      body: Grote aanbieding! Twee koffiezetapparaten voor de prijs van een! Maal
+        uw koffie tweemaal zo snel!
+      hyperlink: www.bluecool.nl/acties
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 0
+  - time: 260
+    guaranteedMail:
+      sender: Bas.Janssnen@mulsbakkers.nl
+      recipient: Jan@muisbakkers.nl (U)
+      subject: Yoo, probeer die AI zelf ook eens!
+      body: Zeg Jan, je moet die AI zelf ook eens proberen! Ik heb m hier beneden
+        gelinkt!
+      hyperlink: cake@openai.com
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 1
+      redFlags: 00000000
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 2
+  - time: 300
+    guaranteedMail:
+      sender: Bas.Janssen@muisbakkers.nl
+      recipient: Jan@muisbakkers.nl (U)
+      subject: 'Kijk uit: Ik was gehackt.'
+      body: He Jan, weet je nog dat ik je over die AI vertelde? Blijkt dus dat die
+        mijn data gestolen had. Mijn mailadressen waren zichtbaar en dus hebben ze
+        misschien besloten om voor jou te gaan. Kijk dus goed uit!
+      hyperlink: 
+      attachment: 
+      logo: {fileID: 0}
+      isPhishing: 0
+      redFlags: 
+      difficulty: 0
+      isUrgent: 0
+      urgentMaxTime: 0
+      mailHandleType: 0

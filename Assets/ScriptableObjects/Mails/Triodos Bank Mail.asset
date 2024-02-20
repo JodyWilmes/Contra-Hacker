@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5787b6f54dab7de4c96d2afa90f06d57, type: 3}
+  m_Name: Triodos Bank Mail
+  m_EditorClassIdentifier: 
+  senders:
+  - zakelijk@triodos.nl
+  - triodos@ident.net
+  recipients:
+  - Arie.Beemstra@gmail.com (U)
+  - info@beemstra.com
+  subjects:
+  - Let op voor oplichters
+  - Identifier aanvragen
+  bodies:
+  - 'Beste gebruiker van onze bank. Op dit moment gaat er een mail rond waarin oplichters
+    aangeven dat je een nieuwe identifier moet aanvragen. Volg deze mail niet. Wij
+    zullen U nooit vragen om online een identifier aan te vragen. Voor meer informatie
+    over dit onderwerp, kijk op:'
+  - 'Geachte relatie, De feestdagen komen er weer aan. Een mooi moment om naast het
+    opzetten van uw kerstboom ook uw bankzaken in orde te hebben. Vanaf 1 januari
+    kunt u niet meer inloggen in uw Triodos Internet Bankieren met uw Identifier
+    om uw bankzaken te regelen. U bent namelijk nog in het bezit van een verouderde
+    Identifier. Vraag voor 28 December uw nieuwe Identifier aan met de volgende link:'
+  hyperlinks:
+  - info.triodos.nl
+  - identifier.trodios.nu
+  attachments: []
+  logoes: []
+  phishChance: 0.5
+  difficulty: 3
+  isUrgent: 0
+  urgentMaxTime: 0
+  handleType: 2
