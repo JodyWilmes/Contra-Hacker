@@ -224,8 +224,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Nieuws.nl
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 43c01af6e180aa247aff00b5639cea55, type: 2}
+  m_sharedMaterial: {fileID: 6650424773944232768, guid: 43c01af6e180aa247aff00b5639cea55,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -362,8 +363,9 @@ MonoBehaviour:
     omzet draait per dag, heeft nu ge\xEFnvesteerd in administratie. 300 nieuwe mensen
     worden op dit moment getraind om de mails te beantwoorden."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 43c01af6e180aa247aff00b5639cea55, type: 2}
+  m_sharedMaterial: {fileID: 6650424773944232768, guid: 43c01af6e180aa247aff00b5639cea55,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -464,7 +466,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 2.1, y: -7.4}
+  m_AnchoredPosition: {x: 2.0999756, y: -7.4000244}
   m_SizeDelta: {x: 0, y: 5.994}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &1647467287810319546
@@ -497,8 +499,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Megabedrijf neemt wederom nieuwe werknemers aan
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 43c01af6e180aa247aff00b5639cea55, type: 2}
+  m_sharedMaterial: {fileID: 6650424773944232768, guid: 43c01af6e180aa247aff00b5639cea55,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

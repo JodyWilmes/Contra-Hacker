@@ -55,7 +55,6 @@ public class DayManager : MonoBehaviour
                 {
                     lastMailSent = false;
                 }
-
             }
 
             foreach (GuaranteedMail guaranteedMail in currentDay.guaranteedMails)
