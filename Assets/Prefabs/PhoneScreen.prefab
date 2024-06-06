@@ -251,7 +251,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!114 &15109773762235114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -502,8 +502,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 43c01af6e180aa247aff00b5639cea55, type: 2}
-  m_sharedMaterial: {fileID: 6650424773944232768, guid: 43c01af6e180aa247aff00b5639cea55,
+  m_fontAsset: {fileID: 11400000, guid: 3149f093b3f1d7f43898f02d12127bbf, type: 2}
+  m_sharedMaterial: {fileID: -8307352263941729785, guid: 3149f093b3f1d7f43898f02d12127bbf,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -538,11 +538,11 @@ MonoBehaviour:
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
-  m_characterSpacing: 0
+  m_characterSpacing: 1
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: 10
   m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
+  m_paragraphSpacing: 3
   m_charWidthMaxAdj: 0
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4

@@ -224,8 +224,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Nieuws.nl
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 43c01af6e180aa247aff00b5639cea55, type: 2}
-  m_sharedMaterial: {fileID: 6650424773944232768, guid: 43c01af6e180aa247aff00b5639cea55,
+  m_fontAsset: {fileID: 11400000, guid: 3149f093b3f1d7f43898f02d12127bbf, type: 2}
+  m_sharedMaterial: {fileID: -8307352263941729785, guid: 3149f093b3f1d7f43898f02d12127bbf,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -363,8 +363,8 @@ MonoBehaviour:
     omzet draait per dag, heeft nu ge\xEFnvesteerd in administratie. 300 nieuwe mensen
     worden op dit moment getraind om de mails te beantwoorden."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 43c01af6e180aa247aff00b5639cea55, type: 2}
-  m_sharedMaterial: {fileID: 6650424773944232768, guid: 43c01af6e180aa247aff00b5639cea55,
+  m_fontAsset: {fileID: 11400000, guid: 3149f093b3f1d7f43898f02d12127bbf, type: 2}
+  m_sharedMaterial: {fileID: -8307352263941729785, guid: 3149f093b3f1d7f43898f02d12127bbf,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -499,8 +499,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Megabedrijf neemt wederom nieuwe werknemers aan
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 43c01af6e180aa247aff00b5639cea55, type: 2}
-  m_sharedMaterial: {fileID: 6650424773944232768, guid: 43c01af6e180aa247aff00b5639cea55,
+  m_fontAsset: {fileID: 11400000, guid: 3149f093b3f1d7f43898f02d12127bbf, type: 2}
+  m_sharedMaterial: {fileID: -8307352263941729785, guid: 3149f093b3f1d7f43898f02d12127bbf,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}

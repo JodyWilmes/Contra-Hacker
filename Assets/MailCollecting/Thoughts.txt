@@ -1,0 +1,39 @@
+ - Website met informatie
+ - Van deze website pak je de informatie, die moet opgesplitst worden 
+ - De informatie die hier moet staan en je dus er uit moet halen is:
+
+   - Titel
+   - Afzender
+   - Ontvanger(s)
+   - Body
+   - Evt link
+   - Evt bijlage
+
+     - Alles 2x, 1x normaal en 1x als Phishing
+
+   - % kans Phishing
+   - Actie die speler moet doen
+   - Feedback
+     - Positief bij juiste actie
+     - Verbetering bij foute actie
+   - Moeilijkheids level
+
+ - Alle informatie wordt opgesplitst van elkaar door random tekens(bijv. #####/$$$$$)
+ - 
+
+
+Scores:
+Hoe de "scores" werken en welke moeilijkheids levels je krijgt
+ - De score gaat bijv van 1-100 totaal, waarbij 100 dan het beste is
+ - Elke mail heeft een score waarmee de moeilijkheid van de mail wordt bepaald
+ - De speler begint bij een score van X, en dan als deze een vraag goed beantwordt gaat de score omhoog, en anders omlaag.
+
+
+
+
+
+
+50+++DOORSTUREN+++Goed gedaan! deze mail moest inderdaad doorgestuurd worden+++Dat klopt helaas niet, deze mail had doorgestuurd moeten worden+++30+++Titel+++Phising titel+++Afzender+++phishing afzender+++Ontvanger(s)+++Phishing ontvanger(s)+++Body+++Phishing body+++Evt link+++Evt phishing link+++Evt bijlage+++Evt phishing bijlage
+*****20+++DOORSTUREN+++2Goed gedaan! deze mail moest inderdaad doorgestuurd worden+++2Dat klopt helaas niet, deze mail had doorgestuurd moeten worden+++20+++2Titel+++2Phising titel+++2Afzender+++2Phishing afzender+++2Ontvanger(s)+++2Phishing ontvanger(s)+++2Body+++2Phishing body+++2Evt link+++2Evt phishing link+++2Evt bijlage+++]2Evt phishing bijlage
+*****40+++DOORSTUREN+++3Goed gedaan! deze mail moest inderdaad doorgestuurd worden+++3Dat klopt helaas niet, deze mail had doorgestuurd moeten worden+++20+++3Titel+++3Phising titel+++3Afzende+++3Phishing afzender+++3Ontvanger(s)+++3Phishing ontvanger(s)+++3Body+++3Phishing body+++3Evt link+++3Evt phishing link+++3Evt bijlage+++3Evt phishing bijlage
+*****35+++DOORSTUREN+++4Goed gedaan! deze mail moest inderdaad doorgestuurd worden+++4Dat klopt helaas niet, deze mail had doorgestuurd moeten worden+++20+++4Titel+++4Phising titel+++4Afzender+++4Phishing afzender+++4Ontvanger(s)+++4Phishing ontvanger(s)+++4Body+++4Phishing body+++4Evt link+++4Evt phishing link+++4Evt bijlage+++4Evt phishing bijlage
